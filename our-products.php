@@ -92,7 +92,7 @@
 		</div>
 	</nav>
 	<marquee width="100%" direction="right" style="color:red" behavior="alternate" onmouseover="this.stop();" onmouseout="this.start();">
-		<h5><a href="iso certificate.pdf" style="color:red" target="_blank"> An ISO 9001: 2015 Certified</a></h5>
+		<h5><a href="trade-mark.pdf" style="color:red" target="_blank">Trade Mark Registered</a></h5>
 	</marquee>
 </head>
 
@@ -211,6 +211,7 @@
 							</a>
 							<p>About the company, little description will goes here.. </p>
 							<p> <a href="iso certificate.pdf" target="_blank" style="color: white">ISO Certification</a> <b style="color: red">new</b> </p>
+							<p> <a href="trade-mark.pdf" target="_blank" style="color: white">Trade Mark</a> <b style="color: red">new</b> </p>
 							<p>GSTIN : 09BMZPP5926J1ZZ <br>DL No: UP6420B0000034 <br> UP6421B0000034</p>
 
 						</div>
