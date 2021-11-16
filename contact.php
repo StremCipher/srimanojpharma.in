@@ -212,7 +212,6 @@
 						<div class="row">
 							<div class="col-md-12 text-center">
 								<p>Copyright© 2021 SriManojPharma</p>
-								<p>Designed and Maintained by <a href="https://www.streamcipher.tk">StreamCipher</a></p>
 							</div>
 						</div>
 					</div>
