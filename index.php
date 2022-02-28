@@ -115,6 +115,9 @@
 					<img class="d-block w-100" src="image/image crousel galary/8.jpeg" alt="Third slide" >
 				</div> -->
 				<div class="carousel-item active">
+					<img class="d-block w-100" src="image/image crousel galary/9.jpeg" alt="Third slide">
+				</div>
+				<div class="carousel-item">
 					<img class="d-block w-100" src="image/image crousel galary/7.jpeg" alt="Third slide">
 				</div>
 				<div class="carousel-item">
