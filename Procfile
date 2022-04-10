@@ -1,1 +1,1 @@
-web: gunicorn vscodedjangoproject1.wsgi --log-file -
+web: gunicorn srimanojpharmadotin.wsgi --log-file -
