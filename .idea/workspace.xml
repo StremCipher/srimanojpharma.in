@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e9f042-8a6f-4844-b6c7-1fd3f64b6599" name="Changes" comment="" />
+    <list default="true" id="a9e9f042-8a6f-4844-b6c7-1fd3f64b6599" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/srimanojpharmadotin/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/srimanojpharmadotin/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
